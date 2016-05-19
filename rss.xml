@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[CynthiaLarner-Cooper]]></title>
+        <description><![CDATA[CynthiaLarner-Cooper]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 19 May 2016 09:31:33 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About me]]></title>
+            <description><![CDATA[<p>Who am I? </p>]]></description>
+            <link>undefinedabout-me/index.html</link>
+            <guid isPermaLink="false">54fdd1db-ad6c-43d9-b3b0-47dd4a0a983a</guid>
+            <pubDate>Thu, 19 May 2016 09:31:25 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
